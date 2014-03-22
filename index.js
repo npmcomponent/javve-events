@@ -1,5 +1,5 @@
-var events = require('event'),
-  toArray = require('to-array');
+var events = require('component-event'),
+  toArray = require('timoxley-to-array');
 
 /**
  * Bind `el` event `type` to `fn`.
